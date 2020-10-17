@@ -6,5 +6,31 @@ Kısaca özetlemek gerekirse bu çalışmanın amacı gereksiz yere kamyon kulla
 
 
 
-### Business Canvas İş Modelini
+## Business Canvas İş Modelini
 ![Use Case Diagram](https://github.com/nermiin/IOT_DataBasedWasteManegmentSystem/blob/main/i%C5%9F_canvas.png)
+
+
+## Sistem mimarisi
+
+
+## Ekipman Listesi ve kullanılan Teknolojiler
+	NodeMCU (EP8266)
+	Thingspeak IoT	bulut	 platformu	
+	HC-SR04 (Ultra-sonic mesafe sensörü)
+	RFID (RC522)
+	LM35 (sıcaklık sensörü)
+	Bread Board
+	Jumper Kablo 
+	Micro USB Cable
+	Ardunio IDE program geliştirme ortamı
+	Blynk Uygulaması
+
+## Devre Tasarımı (Fritzing)
+
+## Blynk Arayüz Görüntüsü
+
+## Devrenin fiziksel resmi
+
+## Başarı Ölçütleri
+
+## Akış Diyagramı 
